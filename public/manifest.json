@@ -1,6 +1,13 @@
 {
     "short_name": "Budget Tracker",
     "name": "whats my budget?",
+    "start_url": "/source=pwa",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000",
+    "description": "An App to help manage your budget",
     "icons": [
       {
         "src": "/icons/icon-72x72.png",
@@ -33,7 +40,7 @@
         "sizes": "192x192"
       },
       {
-        "src": "icons/icon-512x512.png",
+        "src": "icons/icon-384x384.png",
         "type": "image/png",
         "sizes": "384x384"
       },
@@ -42,12 +49,5 @@
         "type": "image/png",
         "sizes": "512x512"
       }
-    ],
-    "start_url": "/source=pwa",
-    "background_color": "#3367D6",
-    "display": "standalone",
-    "scope": "/",
-    "theme_color": "#3367D6",
-    "description": ""
-   
+    ]
   }
