@@ -1,8 +1,39 @@
-# PWA-Budget-Tracker
+# Budget Expense Tracker
+  ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+# Table of Content
+* [Description](#description)
+* [Installation](#installation)
+* [Licenses](#licenses)
+* [Contributors](#contributors)
+* [Questions](#questions)
+
+## Repo Link
+https://budget-tracker-expenses.herokuapp.com/
+
+## Description 
+This app is to track your expenses and budget overall that uses service worker for offline functionality
+
+## Installation
+npm i -y
+
+## usage
+you need to install the dependencies, run npm start to run the application. 
+
+## Licenses  
+  This project is licenses under MIT license.
+
+## test
+npm test
+
+## languages
+Node.js, Express.js, Mongodb
+
+## Contributors
+There are many ways in which anyone could contribute with resolving bugs, tickets and much more. If you have any questions, or concerns, please econtact us under the questions section
+
+## Questions
+If you need to ask me any questions you can contact me at rtonycloud@gmail.com.
+
+ you can view more of my work at [github](https://github.com/Rtonycloud)
